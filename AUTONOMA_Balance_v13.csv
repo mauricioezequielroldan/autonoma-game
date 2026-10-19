@@ -1,0 +1,6 @@
+Skill,Base,Dif,DemoMult,Cap,DemoGain,PracticeGain,SuccessChance,Demos,Practicas
+Juntar Palos,0.3,1,1.15,59%,=B2*C2/D2*1.15,=0.35+Know/100,Know-Miedo*0.004,2,5
+Llevar a Pila,0.2,1.5,1.15,59%,=B3*C3/D3*1.15,=0.3+Know/100*0.6,Know-Miedo*0.004,2,6
+Refugio Palos,0.1,3,1.15,59%,=B4*C4/D4*1.15,=0.2+Know/100*0.5,Know-Miedo*0.004,3,7
+Talar,0.15,2,1.15,59%,=B5*C5/D5*1.15,=0.25+Know/100*0.5,Know-Miedo*0.004,3,7
+Hacer Fuego,0.2,1.5,1.15,59%,=B6*C6/D6*1.15,=0.3+Know/100*0.6,Know-Miedo*0.004,2,6
